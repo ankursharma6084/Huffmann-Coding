@@ -2,6 +2,9 @@
 
 
 A c++ program to compresses and decompresses files using Huffman algorithm.
+This project is to design compression and decompression programs based on Huffman Coding.
+The idea of Huffman Coding is to minimize the weighted expected length of the code by 
+assigning shorter codes to frequently-used characters and longer codes to less-used charecters.
 
 
 
